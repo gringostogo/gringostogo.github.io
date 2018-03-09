@@ -2,9 +2,9 @@
 title: Gringos to Go
 subtitle: the journey of a lifetime
 email: gringostogos@gmail.com
-description: Gringos to go
+description: Gringos to Go
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "www.gringostogo.de" # the base hostname & protocol for your site
 author: Manuel Anrig
 street_address: 
 city: Sargans
